@@ -25,6 +25,10 @@
     { "source": "/de/glossar/garantie-und-normen",     "destination": "/glossary-11-garantie-und-normen.html" },
     { "source": "/de/glossar/garantie-und-normen/",    "destination": "/glossary-11-garantie-und-normen.html" },
     { "source": "/de/glossar/dachdeckerterminologie",  "destination": "/glossary-12-dachdeckerterminologie.html" },
-    { "source": "/de/glossar/dachdeckerterminologie/", "destination": "/glossary-12-dachdeckerterminologie.html" }
-  ]
+    { "source": "/de/glossar/dachdeckerterminologie/", "destination": "/glossary-12-dachdeckerterminologie.html" },
+  { "source": "/de/glossar/dachzubehoer",            "destination": "/glossary-13-dachzubehoer.html" },
+  { "source": "/de/glossar/dachzubehoer/",           "destination": "/glossary-13-dachzubehoer.html" },
+  { "source": "/de/glossar/wartung-und-pflege",      "destination": "/glossary-14-wartung-und-pflege.html" },
+  { "source": "/de/glossar/wartung-und-pflege/",     "destination": "/glossary-14-wartung-und-pflege.html" }
+]
 }
