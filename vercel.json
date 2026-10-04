@@ -1,0 +1,30 @@
+{
+  "rewrites": [
+    { "source": "/de/glossar",                         "destination": "/glossary-00-parent.html" },
+    { "source": "/de/glossar/",                        "destination": "/glossary-00-parent.html" },
+    { "source": "/de/glossar/dacheindeckungsarten",    "destination": "/glossary-01-dacheindeckungsarten.html" },
+    { "source": "/de/glossar/dacheindeckungsarten/",   "destination": "/glossary-01-dacheindeckungsarten.html" },
+    { "source": "/de/glossar/dachprofile",             "destination": "/glossary-02-dachprofile.html" },
+    { "source": "/de/glossar/dachprofile/",            "destination": "/glossary-02-dachprofile.html" },
+    { "source": "/de/glossar/material-und-legierungen",  "destination": "/glossary-03-material-und-legierungen.html" },
+    { "source": "/de/glossar/material-und-legierungen/", "destination": "/glossary-03-material-und-legierungen.html" },
+    { "source": "/de/glossar/steinschlag-und-farben",  "destination": "/glossary-04-steinschlag-und-farben.html" },
+    { "source": "/de/glossar/steinschlag-und-farben/", "destination": "/glossary-04-steinschlag-und-farben.html" },
+    { "source": "/de/glossar/dachkonstruktion",        "destination": "/glossary-05-dachkonstruktion.html" },
+    { "source": "/de/glossar/dachkonstruktion/",       "destination": "/glossary-05-dachkonstruktion.html" },
+    { "source": "/de/glossar/montage-und-installation",  "destination": "/glossary-06-montage-und-installation.html" },
+    { "source": "/de/glossar/montage-und-installation/", "destination": "/glossary-06-montage-und-installation.html" },
+    { "source": "/de/glossar/witterungsbestaendigkeit",  "destination": "/glossary-07-witterungsbestaendigkeit.html" },
+    { "source": "/de/glossar/witterungsbestaendigkeit/", "destination": "/glossary-07-witterungsbestaendigkeit.html" },
+    { "source": "/de/glossar/dachsanierung-lexikon",   "destination": "/glossary-08-dachsanierung-lexikon.html" },
+    { "source": "/de/glossar/dachsanierung-lexikon/",  "destination": "/glossary-08-dachsanierung-lexikon.html" },
+    { "source": "/de/glossar/dachdurchdringungen",     "destination": "/glossary-09-dachdurchdringungen.html" },
+    { "source": "/de/glossar/dachdurchdringungen/",    "destination": "/glossary-09-dachdurchdringungen.html" },
+    { "source": "/de/glossar/nachhaltigkeit",          "destination": "/glossary-10-nachhaltigkeit.html" },
+    { "source": "/de/glossar/nachhaltigkeit/",         "destination": "/glossary-10-nachhaltigkeit.html" },
+    { "source": "/de/glossar/garantie-und-normen",     "destination": "/glossary-11-garantie-und-normen.html" },
+    { "source": "/de/glossar/garantie-und-normen/",    "destination": "/glossary-11-garantie-und-normen.html" },
+    { "source": "/de/glossar/dachdeckerterminologie",  "destination": "/glossary-12-dachdeckerterminologie.html" },
+    { "source": "/de/glossar/dachdeckerterminologie/", "destination": "/glossary-12-dachdeckerterminologie.html" }
+  ]
+}
